@@ -9,81 +9,83 @@ Brazilian Rat ( Brata Rat )
 ![33](https://i.imgur.com/1rjXlPY.jpg)
 
 
-This is a fully equiped android remote administration tool developed by an unidentified programmer ( a member of a secret cyber-activist criminals ).
+Brata Rat is an android device controlling softare, whilst its Botnet supports ios (15.4.1 and below) and android (android 13))
+Fully Undetectable and Persistent.
 
-To Ensure Maximum Privacy of this tool, No images are allowed within this forum.
-
-Under Advanced Cyber-tasking, Prices are raised up to ensure reduction in buyers amassed with kids
-
-With the aid of the Deep-Web and defaming tools, we have also managed to keep our onions out of google search results.
 
 ![33](https://i.imgur.com/7XtV8zl.jpg)
 
 
 ![33](https://i.imgur.com/9pWV0KP.jpg)
 
-**FEATURES OF BRATA RAT**
+### Features
 
-# Anti-Delete 
-# Screen Control 
-# Format Phone 
-# Phone Call
-# Message Toaster
-# Messages and Contacts 
-# File Manager 
-# Screen Phisher 
-# Ghost-MODE 
+**Available For Rat**
+
+- [x] Anti-Delete 
+- [x] Screen Control 
+- [x] Format Phone 
+- [x] Phone Call
+- [x] Message Toaster
+- [x] File Manager 
+- [x] Screen Phisher 
+- [x] Dump System Info
+- [x] Dump Location
+- [x] Live Webcam Stream
+- [x] Dump Messages
+- [x] Change Audio Mode
+- [x] Dump Call Logs
+- [x] Dump Local Time
+- [x] Microphone Recording
+- [x] Unistall App
+- [x] List Installed Apps
+- [x] Send Message
+- [x] Dump Contacts
+- [x] Lock/Unlock Screen
+- [x] Run Shell Command
+- [x] Webcam Snap
+- [x] Open App
+- [x] Install App
+- [x] Device Info
+- [x] Hide/Show payload app icon 
 
 
---------------
 
-[TELEGRAM CONTACT](https://t.me/nocrimer)
-[TELEGRAM CONTACT](https://t.me/nocrimer)
-[TELEGRAM CONTACT](https://t.me/nocrimer)
+```
+https://t.me/nocrimer
+```
+[TELEGRAM CONTACT](https://t.me/nocrimer) 
 
-
---------------
-
-BRATA BOTNET ( PRIVATE )
-
-![33](https://i.imgur.com/MQezyjn.jpg)
+<!-- PRIVATE VERSION -->
+## Private Version
 
 
-**FEATURES OF BRATA RAT**
+**Features**
 
-# Fastest Screen Control
-# Control From Web Browser
-# Android Clipper ( BTC & USDT only )
-# Files
-# Messsages & Contacts
-# Call Forwarder
-# OTP Stealer ( Sends To Panel & Delete )
-# Satisfying Panel Design
-# Anti  Delete
-# Automatic Rooting ( up to android 11 only )
-# Send SMS
-# Lock Screen ( Screen On But cannot Touch )
-# Ransomware
-# Freeze Phone 
-# Vibrata Device
-# Change Wallpaper
-# Turn on/off ( torch, bluetooth, location, volume, etc )
-
+- [x] Fastest Screen Control
+- [x] Control From Web Browser
+- [x] Android Clipper ( BTC & USDT only )
+- [x] Files
+- [x] Messsages & Contacts
+- [x] Call Forwarder
+- [x] OTP Stealer ( Sends To Panel & Delete )
+- [x] Satisfying Panel
+- [x] Anti  Delete
+- [x] Automatic Rooting ( up to android 11 only )
+- [x] Send SMS
+- [x] Lock Screen ( Screen On But cannot Touch )
+- [x] Ransomware
+- [x] Freeze Phone
+- [x] Vibrata Device
+- [x] Change Wallpaper
+- [x] Turn on/off ( torch, bluetooth, location, volume, etc )
 Many More
 
 
-![33](https://i.imgur.com/V5c20Ca.jpg)
-
-
-[TELEGRAM CONTACT](https://t.me/nocrimer)
-[TELEGRAM CONTACT](https://t.me/nocrimer)
-[TELEGRAM CONTACT](https://t.me/nocrimer)
-
-
-.
-
-.
-
+```
+https://t.me/nocrimer
+```
+[TELEGRAM CONTACT](https://t.me/nocrimer) 
 .
 
 .
@@ -99,3 +101,5 @@ Many More
 --------------
 
 This project is licensed to BRATARATOFFICIAL@GMAIL.COM
+
+#BRATA #BRATARAT #BRATAMALWARE #BRATASPYWARE #BRAZILLIANRAT #BRAZIL
